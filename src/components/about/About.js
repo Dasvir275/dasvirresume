@@ -22,7 +22,7 @@ function About() {
         <div className="a-award">
             <img src={Award} alt="" className='a-award-img' />
             <div className="a-award-texts">
-            <h4 className='a-award-title'>International Design</h4>
+            <h4 className='a-award-title'>Internationallllll Design</h4>
             <p className='a-award-desc'>
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis iusto, eum animi laborum debitis, sapiente obcaecati fugiat, ipsa quidem provident ipsam quaerat iste quod quibusdam labore ipsum repudiandae et saepe?
             </p>
